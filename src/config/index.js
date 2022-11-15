@@ -1,4 +1,4 @@
-const WEB3_PROVIDER = "https://mainnet.infura.io/v3/68a69341d8944273a559bbb93160f7e9";
+const WEB3_PROVIDER = "https://mainnet.infura.io/v3/API_KEY";
 
 const CONFIG = {
     WEB3_PROVIDER
