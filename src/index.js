@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import "../node_modules/noty/lib/noty.css";
-import "../node_modules/noty/lib/themes/mint.css";
+import "noty/src/noty.scss";
+import "noty/src/themes/metroui.scss";
 import './index.css';
 
 import reportWebVitals from './reportWebVitals';
